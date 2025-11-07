@@ -27,7 +27,7 @@ Ideal für GitHub-Showcase oder kleine Pausen zwischendurch 😄
 ## ⚙️ Installation & Start
 
 1. Speichere die Datei **SnakeSwing.java** in einen Ordner, z. B.:  
-   `C:\Users\RobertMartin\Desktop\java-programms\snake`
+   `C:\Users\user\Desktop\java-programms\snake`
 
 2. Öffne **PowerShell oder CMD** in diesem Ordner
 
